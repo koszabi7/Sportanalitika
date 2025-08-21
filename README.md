@@ -1,0 +1,2 @@
+# Sportanalitika
+Játékosok gólszámának előrejelezhetőségének vizsgálata regressziós modellek alkalmazásával
